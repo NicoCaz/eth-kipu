@@ -11,3 +11,9 @@ Me interesa integrar distintas tecnologías tradicionales con protocolos blockch
 ## Objetivos en Web3
 
 Profundizar en el desarrollo de dApps y smart contracts.
+
+---
+
+***"Quien sabe resolver las dificultades las resuelve antes de que surjan"** - El Arte de la Guerra
+
+---
