@@ -1,0 +1,12 @@
+Why a Safe Multi-Sig?
+
+Security is a core value in Web3. The Safe (previously Gnosis Safe) is an industry-standard multi-signature wallet used by DAOs, teams, and protocols to manage assets and execute governance actions safely. By setting one up, students gain hands-on experience with secure asset management, a critical skill for anyone looking to work with or build decentralized applications.
+
+Together, these two tasks lay the groundwork for both personal credibility and secure development practices in the Ethereum ecosystem.
+
+Deliverables
+
+To complete this exam, students must submit:
+
+GitHub Profile URL – Must include a personalized README.md file presenting who you are, your interests as a developer, and your goals in Web3.
+Safe Multi-Sig Address – Deployed on any EVM-compatible testnet (e.g., Goerli or Sepolia), with at least two signers configured.
